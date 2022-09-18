@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2467d093.chunk.css",
+    "main.js": "/static/js/main.66c29d23.chunk.js",
+    "main.js.map": "/static/js/main.66c29d23.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4bccf27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4bccf27.js.map",
+    "static/css/2.80f479d8.chunk.css": "/static/css/2.80f479d8.chunk.css",
+    "static/js/2.4dcf0c34.chunk.js": "/static/js/2.4dcf0c34.chunk.js",
+    "static/js/2.4dcf0c34.chunk.js.map": "/static/js/2.4dcf0c34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2615f51a6e07e7940a1395704c52b812.js": "/precache-manifest.2615f51a6e07e7940a1395704c52b812.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.2467d093.chunk.css.map": "/static/css/main.2467d093.chunk.css.map",
+    "static/js/2.4dcf0c34.chunk.js.LICENSE.txt": "/static/js/2.4dcf0c34.chunk.js.LICENSE.txt",
+    "static/media/airbnb.png": "/static/media/airbnb.ea0ff53e.png",
+    "static/media/carousel-1.png": "/static/media/carousel-1.7ee41b04.png",
+    "static/media/carousel-2.png": "/static/media/carousel-2.b948f5f3.png",
+    "static/media/carousel-4.png": "/static/media/carousel-4.050ab61f.png",
+    "static/media/carousel-5.png": "/static/media/carousel-5.a626e1eb.png",
+    "static/media/google.png": "/static/media/google.679ce71d.png",
+    "static/media/workers.png": "/static/media/workers.f2ee7bd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bccf27.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.4dcf0c34.chunk.js",
+    "static/css/main.2467d093.chunk.css",
+    "static/js/main.66c29d23.chunk.js"
+  ]
+}
