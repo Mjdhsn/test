@@ -9,6 +9,8 @@ const Contact = () => {
                     <div className="col-md-5 mb-4">
                         <h2 className="my-3"><b>Let us handle your project, Professionaly</b></h2>
                         <p className="lead">Customer Satisfaction is our main priority</p>
+                        <p className="lead">Headquaters: Cairo,Egypt</p>
+                        <p className="lead">Phone number:06287782455</p>
                     </div>
                     <div className="offset-md-1 col-md-6">
                         <input type="email" name="email" placeholder="Your Email" className="form-control form-control-lg my-3" />
