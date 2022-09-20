@@ -13,7 +13,7 @@ const Review = () => {
     return (
         <section id="services">
             <div className="container py-5 my-md-5 text-center">
-                <h2>Our Team's <b style={{color: '#7ab259'}}></b></h2>
+                <h2>Our Team <b style={{color: '#7ab259'}}></b></h2>
 
         
                 <div className="row mt-5">
