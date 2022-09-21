@@ -8,6 +8,7 @@ import PrivateRoute from './Components/LoginPage/PrivateRoute';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 export const UserContext = createContext();
 
+
 function App() {
   const defaultUser = {
     signed: false,
